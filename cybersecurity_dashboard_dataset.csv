@@ -1,0 +1,301 @@
+Year,Country,Attack Type,Industry,Economic Loss (USD),Severity,Records Stolen,Threat Actor
+2023,India,Malware,Government,8361801,Low,3334565,APT29
+2015,Russia,Ransomware,Telecommunications,5726004,Medium,3661260,DarkSide
+2016,South Korea,Malware,Government,5192779,Critical,3875581,BlackCat
+2024,Australia,Zero-Day Exploit,Government,8895617,Medium,639873,DarkSide
+2022,India,Zero-Day Exploit,Telecommunications,5698260,Low,3105115,APT29
+2017,Canada,SQL Injection,Healthcare,9429760,Low,4256194,LockBit
+2017,Canada,SQL Injection,Government,9123716,Critical,1693173,BlackCat
+2025,UK,SQL Injection,Government,2612976,Medium,1992342,LockBit
+2020,Japan,Phishing,Healthcare,3877374,Medium,1942577,Unknown
+2019,Russia,Phishing,Telecommunications,125253,Critical,4566130,DarkSide
+2020,France,DDoS,Government,304993,High,4182972,LockBit
+2023,UK,Zero-Day Exploit,Telecommunications,6654802,Medium,289749,DarkSide
+2021,Russia,Ransomware,Telecommunications,4690026,Low,1041425,DarkSide
+2023,Russia,Ransomware,Telecommunications,3980306,High,2365502,LockBit
+2022,Australia,Ransomware,Banking,2628815,Medium,1748798,Anonymous
+2024,USA,Zero-Day Exploit,Education,9790510,Medium,1755626,Anonymous
+2023,China,Ransomware,Technology,1661095,High,149420,Anonymous
+2015,France,DDoS,Education,7746496,Medium,3737935,Lazarus Group
+2015,Russia,SQL Injection,Telecommunications,5728849,High,693417,BlackCat
+2023,UK,Data Breach,Education,7289129,Critical,3264308,DarkSide
+2019,China,SQL Injection,Technology,5850024,High,3500955,APT29
+2019,Japan,SQL Injection,Retail,9280175,Low,3572341,Anonymous
+2024,Australia,Malware,Healthcare,9117935,High,4637914,Lazarus Group
+2017,South Korea,Data Breach,Telecommunications,2833749,Low,2550468,LockBit
+2018,USA,Phishing,Technology,1724418,Low,2308155,Anonymous
+2015,Germany,Zero-Day Exploit,Government,8975906,Medium,621061,DarkSide
+2019,South Korea,Data Breach,Government,3764225,Medium,3641617,Lazarus Group
+2025,Japan,Malware,Healthcare,4610357,Medium,4441797,BlackCat
+2022,USA,Phishing,Banking,4146207,High,4008959,BlackCat
+2020,Brazil,Data Breach,Retail,4133027,Critical,3814345,LockBit
+2015,Brazil,Ransomware,Telecommunications,5527538,Low,4533751,BlackCat
+2018,Russia,Zero-Day Exploit,Technology,4639559,Critical,1012371,APT29
+2018,USA,Malware,Banking,7040682,Low,2267277,Unknown
+2023,Germany,Phishing,Retail,6001074,Critical,2709596,Anonymous
+2017,Russia,DDoS,Retail,3618248,Low,4717693,Lazarus Group
+2022,India,Ransomware,Banking,162246,Medium,324293,Anonymous
+2025,USA,DDoS,Healthcare,6973939,Low,4040831,BlackCat
+2017,UK,Data Breach,Government,4024534,High,1228026,Anonymous
+2025,Canada,DDoS,Retail,8847471,Low,2417095,BlackCat
+2019,Brazil,Phishing,Technology,4415347,High,4880672,LockBit
+2017,USA,Malware,Telecommunications,1081152,Critical,3701308,LockBit
+2016,Australia,SQL Injection,Education,4926921,Low,3741742,APT29
+2022,USA,DDoS,Retail,9871487,High,2173178,Unknown
+2023,India,SQL Injection,Government,3220113,Low,1837458,BlackCat
+2019,Japan,DDoS,Government,8153094,Medium,2506970,APT29
+2020,South Korea,SQL Injection,Education,1488648,Critical,1381421,BlackCat
+2020,Japan,Zero-Day Exploit,Technology,1931354,Critical,1100345,Anonymous
+2018,UK,Zero-Day Exploit,Government,8623675,Low,1950654,LockBit
+2025,Japan,Ransomware,Telecommunications,8495884,High,2487424,Lazarus Group
+2021,Canada,Ransomware,Technology,9276378,High,3039494,Lazarus Group
+2022,South Korea,Zero-Day Exploit,Telecommunications,4988107,Medium,274188,LockBit
+2020,Japan,Phishing,Technology,6444310,Medium,2433502,Lazarus Group
+2025,Australia,Ransomware,Telecommunications,7830636,Critical,4804481,Anonymous
+2017,USA,SQL Injection,Government,3800170,Medium,1306596,DarkSide
+2019,China,SQL Injection,Government,7455270,High,3445631,BlackCat
+2015,Russia,Ransomware,Telecommunications,3403476,High,986755,DarkSide
+2025,France,DDoS,Government,2648949,High,4510415,Unknown
+2020,USA,Malware,Telecommunications,3653674,Medium,73944,APT29
+2015,Germany,Phishing,Banking,2367557,Low,1110765,Unknown
+2019,Australia,Zero-Day Exploit,Government,1370472,Critical,4235744,Anonymous
+2024,UK,DDoS,Retail,856899,High,3553277,APT29
+2020,India,Data Breach,Technology,4711956,Low,124964,Anonymous
+2018,South Korea,Malware,Education,2601088,Critical,2523049,APT29
+2024,Australia,Phishing,Healthcare,4897898,Critical,441171,DarkSide
+2019,Japan,Data Breach,Technology,9527363,Low,4822643,DarkSide
+2017,India,Zero-Day Exploit,Technology,1425160,High,3215196,DarkSide
+2015,India,Data Breach,Telecommunications,1108972,Critical,4737652,LockBit
+2015,Germany,Data Breach,Technology,8038245,Critical,790952,Anonymous
+2017,South Korea,Phishing,Government,2221872,Critical,1305332,Lazarus Group
+2016,Canada,Malware,Healthcare,1188613,Low,3488500,Lazarus Group
+2018,South Korea,Zero-Day Exploit,Technology,1327922,Medium,3765532,LockBit
+2015,China,Data Breach,Government,2049994,High,2144297,LockBit
+2018,China,Malware,Education,3760729,High,4246492,Lazarus Group
+2025,Russia,SQL Injection,Technology,1182671,Medium,2600721,BlackCat
+2020,India,Ransomware,Government,9669323,Critical,4259227,Anonymous
+2025,China,Zero-Day Exploit,Government,5992369,Critical,3408848,Lazarus Group
+2017,Germany,Phishing,Retail,8591334,Medium,1573072,BlackCat
+2017,USA,Ransomware,Technology,8835399,Critical,70642,BlackCat
+2017,Australia,Zero-Day Exploit,Government,6150147,Critical,4987009,Anonymous
+2021,South Korea,Malware,Government,2006671,Critical,14150,Lazarus Group
+2023,UK,Data Breach,Telecommunications,1052419,Critical,3521871,BlackCat
+2023,Canada,DDoS,Technology,2796734,High,1258423,APT29
+2024,Germany,Zero-Day Exploit,Technology,2585768,High,2605049,APT29
+2020,Brazil,DDoS,Banking,4829846,Medium,3810014,Unknown
+2015,UK,Zero-Day Exploit,Technology,9555905,Critical,2391016,Anonymous
+2018,USA,Phishing,Education,7818640,Critical,839750,LockBit
+2025,South Korea,Phishing,Banking,2937180,High,670388,Unknown
+2017,Japan,Data Breach,Healthcare,8839393,Medium,2706126,BlackCat
+2019,USA,DDoS,Banking,6151549,Low,1911814,LockBit
+2023,UK,Phishing,Telecommunications,5900720,High,3463984,Unknown
+2022,Canada,SQL Injection,Banking,3130752,High,2785511,BlackCat
+2023,Australia,SQL Injection,Retail,8761846,High,2701745,APT29
+2024,Brazil,Zero-Day Exploit,Retail,2720409,Low,2447153,Anonymous
+2019,Japan,Ransomware,Telecommunications,1733677,Low,814994,LockBit
+2022,China,Malware,Education,2989293,High,4410613,Unknown
+2016,Japan,Phishing,Retail,7366195,High,3441755,LockBit
+2016,South Korea,Phishing,Telecommunications,6763373,Medium,3709564,BlackCat
+2015,Japan,DDoS,Banking,7986220,Medium,3779117,Lazarus Group
+2016,Russia,Ransomware,Banking,290349,Low,4743111,Lazarus Group
+2015,UK,Malware,Technology,1982366,Low,2454863,DarkSide
+2019,South Korea,Malware,Government,9321279,Low,1778838,Unknown
+2020,Japan,Phishing,Government,9260958,Medium,785100,APT29
+2022,USA,Zero-Day Exploit,Telecommunications,9708691,Medium,2240187,DarkSide
+2015,France,Phishing,Telecommunications,9980621,Low,1305521,Anonymous
+2022,Canada,DDoS,Telecommunications,3417071,Medium,1197068,Anonymous
+2016,Japan,Ransomware,Banking,8510944,Low,2278304,DarkSide
+2021,Germany,SQL Injection,Retail,2866688,High,4101261,DarkSide
+2015,Canada,Phishing,Telecommunications,5369451,Critical,3356750,APT29
+2021,France,Phishing,Education,2660688,Critical,4103657,BlackCat
+2019,India,Ransomware,Government,5905766,High,1417755,Lazarus Group
+2017,China,Phishing,Telecommunications,6505543,Low,3456134,Unknown
+2025,India,DDoS,Education,1503095,High,3389036,DarkSide
+2020,Australia,Data Breach,Education,8876229,Low,4698121,DarkSide
+2017,Japan,Ransomware,Telecommunications,5130391,Medium,4076641,APT29
+2015,France,Zero-Day Exploit,Education,9424958,Low,3011204,APT29
+2022,Russia,Data Breach,Retail,147969,Low,503429,Unknown
+2021,Brazil,Ransomware,Education,5257848,Medium,2426021,APT29
+2020,China,Data Breach,Banking,2566409,Critical,1365922,Anonymous
+2020,China,Ransomware,Technology,1134332,Medium,2966250,Lazarus Group
+2021,Brazil,Ransomware,Technology,581828,Critical,3280181,Lazarus Group
+2015,Japan,DDoS,Government,2773705,Low,2024212,BlackCat
+2018,Germany,DDoS,Banking,890893,Medium,2177570,Anonymous
+2025,France,Data Breach,Technology,4497103,Low,2873944,Unknown
+2018,UK,SQL Injection,Banking,398364,Medium,2405580,BlackCat
+2015,China,DDoS,Banking,8019149,High,133606,DarkSide
+2015,Canada,Data Breach,Banking,7925976,High,1491738,APT29
+2022,Japan,Zero-Day Exploit,Healthcare,6732074,Low,1795326,Lazarus Group
+2024,Australia,Ransomware,Technology,2011182,Critical,770409,BlackCat
+2023,Japan,Phishing,Retail,2387782,High,1855959,APT29
+2017,China,Ransomware,Retail,7789875,Critical,3446489,DarkSide
+2016,China,Data Breach,Banking,8539923,Medium,4473746,BlackCat
+2020,China,Phishing,Banking,809299,Low,4845736,APT29
+2024,Brazil,Data Breach,Healthcare,1826237,Low,3734209,BlackCat
+2023,Brazil,Malware,Banking,4674086,High,3361031,Anonymous
+2024,Australia,Phishing,Healthcare,487903,Medium,3847302,Lazarus Group
+2019,Australia,Ransomware,Healthcare,7210248,High,2952211,Lazarus Group
+2017,Brazil,SQL Injection,Education,9420974,Medium,1553841,LockBit
+2016,Brazil,Zero-Day Exploit,Telecommunications,6634793,Low,2364398,APT29
+2022,Brazil,Ransomware,Banking,5840007,High,4134141,Lazarus Group
+2025,Russia,Malware,Healthcare,6748714,Low,1124694,LockBit
+2025,China,DDoS,Telecommunications,6320237,Medium,4772468,Lazarus Group
+2020,USA,Data Breach,Banking,7763779,Medium,555410,Lazarus Group
+2019,India,DDoS,Telecommunications,94243,Critical,4278728,APT29
+2020,Germany,Zero-Day Exploit,Retail,4824702,Critical,258432,LockBit
+2025,USA,DDoS,Banking,5034563,Critical,2225867,Anonymous
+2019,UK,SQL Injection,Banking,1710421,High,2559948,Unknown
+2022,UK,Phishing,Technology,8520170,Critical,2006042,LockBit
+2025,Australia,Malware,Retail,5960692,High,2172955,DarkSide
+2023,France,Data Breach,Education,6154108,High,1530838,LockBit
+2017,South Korea,SQL Injection,Telecommunications,1435896,Low,3646816,Unknown
+2025,Brazil,Ransomware,Government,3675439,High,1591348,DarkSide
+2023,India,Data Breach,Education,4228919,High,556351,APT29
+2018,Germany,Malware,Education,7145617,Low,1129422,LockBit
+2024,Brazil,Data Breach,Telecommunications,3995942,Critical,4707043,BlackCat
+2023,Australia,Malware,Healthcare,3695308,Low,134183,Anonymous
+2021,China,Ransomware,Banking,8693129,Medium,1038421,Anonymous
+2024,Brazil,Phishing,Banking,7680419,Medium,1172723,APT29
+2016,Canada,Ransomware,Government,4916443,Low,39762,BlackCat
+2022,China,DDoS,Healthcare,6270052,Medium,1205692,Unknown
+2016,Russia,Ransomware,Technology,2967110,Medium,165076,Unknown
+2017,Canada,DDoS,Government,1898434,High,903290,LockBit
+2023,Brazil,DDoS,Retail,5114298,Medium,4944757,Unknown
+2024,Australia,DDoS,Government,7943070,Low,1347511,Anonymous
+2019,Brazil,DDoS,Healthcare,4725485,High,4355503,Anonymous
+2021,Germany,Zero-Day Exploit,Government,8485866,Low,4669267,Unknown
+2017,Germany,Phishing,Government,2879503,Medium,431500,APT29
+2016,Australia,Malware,Government,108254,Low,3483909,APT29
+2015,USA,Malware,Telecommunications,504689,High,2941057,Lazarus Group
+2017,Brazil,Zero-Day Exploit,Banking,87941,Medium,4780930,DarkSide
+2021,USA,DDoS,Retail,6597377,High,3276021,Unknown
+2025,Japan,Ransomware,Telecommunications,3483344,High,1142326,Unknown
+2017,UK,DDoS,Government,373857,Low,3283378,Lazarus Group
+2017,UK,Data Breach,Technology,306317,Medium,897619,DarkSide
+2021,Brazil,Data Breach,Healthcare,4439229,Low,3747319,APT29
+2023,South Korea,Phishing,Telecommunications,3194674,High,349480,APT29
+2024,Canada,Malware,Retail,1418283,High,705911,APT29
+2016,South Korea,Ransomware,Government,405470,High,2018021,APT29
+2025,France,DDoS,Healthcare,2193187,High,971246,BlackCat
+2025,India,Malware,Healthcare,4793430,Medium,3920618,Unknown
+2017,UK,Malware,Banking,2052336,High,3741570,DarkSide
+2019,India,SQL Injection,Healthcare,6197657,High,4081805,APT29
+2023,Brazil,DDoS,Banking,2957937,High,4317416,APT29
+2018,USA,Malware,Education,3265772,Low,2906693,BlackCat
+2019,South Korea,Ransomware,Government,2836873,Medium,4906896,Lazarus Group
+2021,China,Zero-Day Exploit,Banking,642155,Medium,647858,LockBit
+2019,Canada,SQL Injection,Retail,499665,Low,1118801,BlackCat
+2017,Japan,DDoS,Government,3952701,Low,3963729,Lazarus Group
+2021,Australia,DDoS,Retail,9744105,High,1506999,APT29
+2020,Australia,Zero-Day Exploit,Banking,4068895,Low,2227786,DarkSide
+2018,France,SQL Injection,Education,374446,Medium,51945,DarkSide
+2024,Australia,Ransomware,Education,1472927,Critical,2196580,BlackCat
+2019,Canada,Phishing,Technology,3787694,Critical,4591743,LockBit
+2017,Australia,Data Breach,Healthcare,9669591,High,4632887,Anonymous
+2019,Russia,Data Breach,Healthcare,6871226,High,4440477,BlackCat
+2020,Brazil,Data Breach,Education,5347487,Low,1902550,DarkSide
+2025,Russia,Malware,Education,5738872,High,2831721,DarkSide
+2023,Australia,Ransomware,Telecommunications,6082341,High,1301668,Unknown
+2024,Germany,Zero-Day Exploit,Education,7321757,High,2635238,DarkSide
+2023,France,Phishing,Retail,3673604,Low,1147677,APT29
+2021,Canada,Malware,Telecommunications,3494691,Critical,378594,DarkSide
+2021,Brazil,DDoS,Government,5248084,Critical,961789,BlackCat
+2017,South Korea,Phishing,Healthcare,8874306,Low,1990939,Lazarus Group
+2024,Japan,Malware,Healthcare,6927776,Medium,2414574,LockBit
+2019,Japan,DDoS,Government,8481766,Low,3439686,Unknown
+2016,Brazil,SQL Injection,Technology,6149589,Low,3143597,Anonymous
+2025,Russia,Ransomware,Banking,5884482,High,2112636,APT29
+2019,Japan,Data Breach,Retail,8079073,Medium,387669,LockBit
+2020,Australia,SQL Injection,Banking,5290310,Critical,1712820,LockBit
+2018,Russia,DDoS,Retail,8807410,Low,3802162,BlackCat
+2020,India,Data Breach,Technology,2660922,Medium,234914,LockBit
+2021,Japan,Phishing,Telecommunications,7383331,High,3517469,BlackCat
+2022,UK,Zero-Day Exploit,Education,4820259,High,2513735,LockBit
+2023,UK,Malware,Retail,3786196,High,3137322,DarkSide
+2022,India,SQL Injection,Education,654804,Critical,2317398,DarkSide
+2025,Japan,Malware,Government,1164065,Low,1496790,LockBit
+2025,China,Phishing,Retail,1390497,Medium,1964783,DarkSide
+2016,India,Data Breach,Healthcare,4718366,Low,2015200,LockBit
+2019,Japan,SQL Injection,Telecommunications,2779001,Low,2915304,BlackCat
+2021,South Korea,DDoS,Healthcare,5033199,Critical,121228,LockBit
+2021,France,Zero-Day Exploit,Banking,4985755,Low,2230472,Lazarus Group
+2015,Australia,Zero-Day Exploit,Education,8745552,Critical,501067,Anonymous
+2017,Canada,Data Breach,Retail,1465475,High,4120623,DarkSide
+2018,Canada,DDoS,Government,4268934,Low,2615132,Lazarus Group
+2015,UK,Zero-Day Exploit,Government,4148735,Medium,532509,Anonymous
+2020,Japan,Ransomware,Banking,1927464,Critical,3416665,Lazarus Group
+2020,Brazil,Data Breach,Technology,7480346,Medium,4487289,DarkSide
+2020,South Korea,DDoS,Retail,4526797,Medium,4784142,APT29
+2023,China,DDoS,Retail,3857295,Critical,3242512,DarkSide
+2020,France,Malware,Technology,6785264,Critical,150659,APT29
+2019,Russia,Phishing,Education,3333444,Critical,3789508,Unknown
+2020,Japan,Phishing,Government,6867610,High,1607109,Unknown
+2018,South Korea,Malware,Healthcare,1964243,Medium,2478158,LockBit
+2025,USA,Malware,Government,8959225,High,561658,Unknown
+2021,USA,Malware,Technology,5189400,High,1575185,Anonymous
+2024,India,DDoS,Government,9693244,Medium,2433577,Unknown
+2017,Brazil,Ransomware,Telecommunications,846532,Medium,1786751,DarkSide
+2025,UK,Zero-Day Exploit,Healthcare,2103878,High,1249476,DarkSide
+2016,Japan,SQL Injection,Retail,8317837,Low,4737390,Unknown
+2018,India,Malware,Retail,7837456,High,1168108,DarkSide
+2016,India,Data Breach,Banking,2046616,High,4643350,DarkSide
+2022,South Korea,Phishing,Healthcare,3337712,Critical,1419311,Unknown
+2021,USA,Malware,Education,963568,Critical,809280,DarkSide
+2020,Canada,Phishing,Healthcare,1926874,High,1109902,APT29
+2022,China,Ransomware,Government,5446397,Critical,4493787,DarkSide
+2025,Australia,Ransomware,Retail,8494613,High,3740252,Unknown
+2023,Brazil,Zero-Day Exploit,Education,2727133,Low,3394377,Lazarus Group
+2019,India,Data Breach,Technology,8670152,Low,2303886,LockBit
+2021,UK,SQL Injection,Government,8062741,Low,1827947,APT29
+2018,Germany,Phishing,Banking,6958198,High,3108886,DarkSide
+2020,South Korea,Zero-Day Exploit,Government,7368111,High,4449837,DarkSide
+2018,China,Ransomware,Telecommunications,1982788,Critical,3739889,DarkSide
+2025,Canada,DDoS,Healthcare,7723510,Low,4903140,LockBit
+2017,France,Malware,Government,3647937,High,3473077,LockBit
+2016,China,SQL Injection,Healthcare,7429911,Medium,4717043,Lazarus Group
+2025,Australia,SQL Injection,Technology,6490425,High,2942266,Anonymous
+2019,Germany,Phishing,Healthcare,4562850,Medium,1022284,Lazarus Group
+2019,India,SQL Injection,Government,7734024,High,1367344,Unknown
+2021,Germany,Malware,Healthcare,4439666,High,4578521,LockBit
+2017,Brazil,DDoS,Education,5960679,Critical,4432469,APT29
+2019,Germany,Zero-Day Exploit,Retail,1535110,Critical,2607651,Unknown
+2020,Japan,Phishing,Healthcare,4325415,High,2346375,Anonymous
+2024,India,Ransomware,Government,6190245,Low,904591,Lazarus Group
+2018,Brazil,Phishing,Retail,2750665,Critical,2965765,DarkSide
+2021,South Korea,Data Breach,Government,8559116,Critical,3805097,BlackCat
+2018,Canada,Malware,Education,4739379,High,801561,Anonymous
+2022,France,Zero-Day Exploit,Education,4955074,Low,2049906,BlackCat
+2021,USA,Data Breach,Healthcare,541311,Low,4174655,Anonymous
+2015,UK,Phishing,Retail,1350365,Low,4128424,Unknown
+2022,Japan,DDoS,Technology,4318358,Critical,3519703,BlackCat
+2025,China,DDoS,Technology,3844954,High,1330848,APT29
+2021,Canada,SQL Injection,Education,3660289,Critical,653349,Unknown
+2024,France,Zero-Day Exploit,Banking,2592296,High,1862784,LockBit
+2016,Japan,DDoS,Retail,2576907,High,2626776,Lazarus Group
+2019,UK,Malware,Government,4116052,Low,817032,Unknown
+2021,Australia,DDoS,Telecommunications,8660520,Critical,2983556,Anonymous
+2021,France,SQL Injection,Retail,1123907,Medium,1834592,Anonymous
+2024,Russia,Phishing,Telecommunications,3234760,Low,4999046,Lazarus Group
+2016,Australia,SQL Injection,Education,826584,Low,3705037,Anonymous
+2021,Russia,Phishing,Healthcare,9506609,Critical,1220383,BlackCat
+2024,Australia,Data Breach,Telecommunications,6201095,Low,4405231,Anonymous
+2020,South Korea,Ransomware,Telecommunications,7457274,Medium,1257014,Anonymous
+2020,Japan,DDoS,Telecommunications,7175384,High,4961233,DarkSide
+2025,Russia,SQL Injection,Government,6064695,Low,4952353,Lazarus Group
+2017,France,Ransomware,Retail,8569567,Medium,1216690,BlackCat
+2021,USA,SQL Injection,Retail,7292523,High,2545264,BlackCat
+2017,Germany,Data Breach,Healthcare,4505272,Critical,1968453,Unknown
+2024,India,Zero-Day Exploit,Banking,745381,Low,2542117,APT29
+2021,Brazil,Malware,Government,7424776,Critical,4262792,Unknown
+2020,China,SQL Injection,Retail,2289238,Critical,2479715,Unknown
+2024,France,Zero-Day Exploit,Retail,8423540,Critical,933664,LockBit
+2015,Canada,SQL Injection,Government,7208819,Critical,1905011,LockBit
+2018,China,Phishing,Education,4062098,Medium,4006284,Unknown
+2019,UK,Zero-Day Exploit,Banking,5572430,High,4486879,BlackCat
+2016,India,DDoS,Education,2235511,Low,3467361,APT29
+2021,Brazil,Data Breach,Healthcare,3049200,Low,1479750,BlackCat
+2016,Canada,Zero-Day Exploit,Banking,9255842,Medium,266937,DarkSide
+2019,UK,Data Breach,Telecommunications,6384518,Critical,4492090,BlackCat
+2015,Japan,Malware,Retail,1226127,Critical,4552984,Anonymous
+2024,Germany,SQL Injection,Healthcare,4985279,Medium,3134286,APT29
+2016,China,Zero-Day Exploit,Government,1259286,Medium,4212235,BlackCat
